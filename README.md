@@ -1,5 +1,5 @@
 
-# Food Website Project's
+# Foodies Project's
 
 ## This is a frontend project made with HTML, CSS, SASS, & JavaScript.
 This website has a homepage that displays the main menu and an about page where you can see more information about our restaurant. The website also includes;
